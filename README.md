@@ -1,3 +1,5 @@
+# Thanks
+
 # Next.js + Tailwind CSS + HOC Auth + TypeScript Starter and Boilerplate with Realtime Chat & Notification
 
 <div align="center">
